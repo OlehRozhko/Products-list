@@ -4,57 +4,57 @@
          "id":1,
          "imageUrl":"https://bit.ly/3Jzt1xb",
          "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "count":0,
+         "size":0
       },
       {
          "id":2,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2493-thickbox_default/vj-bold-9-orienteering-shoes.jpg",
+         "name":"Bold 9 Shoes",
+         "count":0,
+         "size":0
       },
       {
          "id":3,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/3526-large_default/nvii-race-f1-orienteering-shoes.jpg",
+         "name":"NVii Race F1",
+         "count":0,
+         "size":0
       },
       {
          "id":4,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2604-thickbox_default/nvii-forest-1-shoes.jpg",
+         "name":"NVii Forest 1 Shoes",
+         "count":0,
+         "size":0
       },
       {
          "id":5,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2631-thickbox_default/inov-8-oroc-280-v3-shoes.jpg",
+         "name":"Inov-8 Oroc 280 V3 Shoes",
+         "count":0,
+         "size":0
       },
       {
          "id":6,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2648-thickbox_default/vj-integrator-18-orienteering-shoes.jpg",
+         "name":"VJ Integrator 18 Shoes",
+         "count":0,
+         "size":0
       },
       {
          "id":7,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2059-large_default/vj-integrator-orienteering-shoes.jpg",
+         "name":"VJ Integrator Shoes",
+         "count":0,
+         "size":0
       },
       {
          "id":8,
-         "imageUrl":"https://bit.ly/3Jzt1xb",
-         "name":"Bold X Shoes",
-         "count":5,
-         "size":35
+         "imageUrl":"https://ol-shop.at/2053-thickbox_default/vj-falcon-orienteering-shoes.jpg",
+         "name":"VJ Falcon Shoes",
+         "count":0,
+         "size":0
       }
    ]
 }
