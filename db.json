@@ -7,8 +7,5 @@
   "size": {
     "width": 200,
     "height": 200
-  },
-    "weight": "200g",
-    "comments": ["CommentModel", "CommentModel"]
-  },
+  }
 ]
