@@ -1,15 +1,28 @@
 {
-   "products":[
-      {
-         "id":1,
-         "imageUrl":"some url here",
-         "name":"Product name",
-         "count":4,
-         "size":{
-            "width":200,
-            "height":200
-         },
-         "weight":"200g"
-      },
-   ]
+"posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
 }
