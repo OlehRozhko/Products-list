@@ -1,14 +1,14 @@
 {
-  "product": [
-    {
-      "id": 1,
-      "imageUrl": "https://bit.ly/3Jzt1xb",
-      "name": "Bold X Shoes",
-      "count": 5,
-      "size": {
-        "width": 200,
-        "height": 200
-      },
-    }
-  ]
+   "product":[
+      {
+         "id":1,
+         "imageUrl":"https://bit.ly/3Jzt1xb",
+         "name":"Bold X Shoes",
+         "count":5,
+         "size":{
+            "width":200,
+            "height":200
+         }
+      }
+   ]
 }
